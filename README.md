@@ -1,0 +1,2 @@
+# meth
+Fivem Meth Script
